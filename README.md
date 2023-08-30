@@ -2,7 +2,9 @@
 자바 코드로 구현한 쇼핑몰, Spring MVC 구조로 고도화 프로젝트   
  <br>
  ## 👨‍💻 프로젝트 소개
- 온라인 신발 판매 쇼핑몰 사이트 'NonAge'입니다.   
+ 온라인 신발 판매 쇼핑몰 사이트 'NonAge'입니다.  
+ ![image](https://github.com/wjdals3936/Spring_shoppingMall/assets/101387993/e9c26701-433f-4ea1-a937-24eaf16ef2b2)
+
  <br>
  ## 📅 프로젝트 기간
 	* 23.08.28 ~ 23.08.30   
